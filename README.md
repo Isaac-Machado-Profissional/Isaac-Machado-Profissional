@@ -11,4 +11,4 @@ Actually i'm looking for a jobs in Web Development, with a HTML, CSS, JavaScript
 If you're interested in searching more about me, don't forget to visit my personal site hosted on [GITHub Pages](https://pages.github.com/) below:  
 
 💻 • Personal Site: [https://isaac-machado-profissional.github.io/Curriculo-Site/](https:https://isaac-machado-profissional.github.io/Curriculo-Site/)  
-📚 • Learning Language: JAVA with POO, and C++ / C# witch's data structures 
+📚 • Learning Language: C++/C# with DATA Structures and JAVA witch's OOP Language
