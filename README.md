@@ -1,6 +1,6 @@
-## Hello, my little sunshine! ✨
+## Hello, my name is Isaac! ✨
 
-Hi, I'm Isaac, and I'm a bachelor student in Computer Engineering at a public university in Brazil. I like to have a mentality like a  
+I'm a bachelor student in Computer Engineering at a public university in Brazil. I like to have a mentality like a  
 sunflower, with my back to the shadows and my face to the sun, focusing on growth and getting better day by day with my tech skills.   
 
 My first and main programming-language its: Python, with i have a more experience(Front, and BackEND), but i really like to be a  
