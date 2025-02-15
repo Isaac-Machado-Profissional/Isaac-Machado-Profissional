@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <a href="isaacmachado.profissional@gmail.com" target="_blank">
+  <a href="mailto:isaacmachado.profissional@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail badge"  />
   </a>
 
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge"  />
   </a>
 
-  <a href="mailto:https://www.isaac-machado.me/">
+  <a href="https://www.isaac-machado.me/">
   <img src="https://img.shields.io/badge/-Isaac%20Machado-FFFFFF?logo=https://raw.githubusercontent.com/Isaac-Machado-Profissional/Isaac-Portfolio/refs/heads/main/Logo.ico&label=&color=642EFE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt"isaac-machado.me badge" />
   </a>
 </div>
