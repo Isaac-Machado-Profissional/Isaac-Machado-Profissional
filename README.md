@@ -1,14 +1,47 @@
-## Hello, my name is Isaac! ✨
+<h2 align="center">✨Hi, i'm Isaac, preasure!</h2>
 
-I'm a bachelor student in Computer Engineering at a public university in Brazil. I like to have a mentality like a  
-sunflower, with my back to the shadows and my face to the sun, focusing on growth and getting better day by day with my tech skills.   
+###
 
-My first and main programming-language its: Python, with i have a more experience(Front, and BackEND), but i really like to be a  
-WEB Designer using a some Markup Language like HTML, CSS and JavaScript.  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isaac-Machado-Profissional&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaac-Machado-Profissional&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Actually i'm looking for a jobs in Web Development, with a HTML, CSS, JavaScript, with a little bit with Python or Java(Last one actually learning more like right now)  
+###
 
-If you're interested in searching more about me, don't forget to visit my personal site hosted on [GITHub Pages](https://pages.github.com/) below:  
+###
 
-💻 • Personal Site: [https://www.isaac-machado.me](https://www.isaac-machado.me)  
-📚 • Learning Language: C++/C# with DATA Structures and JAVA witch's OOP Language
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="isaacmachado.profissional@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Isaac-Machado-Profissional/Isaac-Machado-Profissional/output/snake.svg" alt="Snake animation" />
+
+###
