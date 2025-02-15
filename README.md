@@ -44,9 +44,9 @@
   <a href="https://www.linkedin.com/in/isaac-machado-profissional/?originalSubdomain=br" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
-  <img src="https://img.shields.io/static/v1?label=Meu%20Projeto&message=Badge%20Personalizado&color=0077B5&logo=https://raw.githubusercontent.com/Isaac-Machado-Profissional/Isaac-Portfolio/main/Logo.png&logoColor=white" height="35" alt="Custom Logo Badge" />
-
+  <a href="https://www.isaac-machado.me/">
+  <img src="https://img.shields.io/static/v1?label=Isaac-Machado&color=0077B5&logo=https://raw.githubusercontent.com/Isaac-Machado-Profissional/Isaac-Portfolio/main/Logo.png&logoColor=white" height="35" alt="Isaac Badge" />
+  </a>
 </div>
 
 ###
