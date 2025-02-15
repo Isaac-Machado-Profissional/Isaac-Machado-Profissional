@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
-  <img src="https://img.shields.io/badge/-Isaac%20Machado-FFFFFF?logo=https://raw.githubusercontent.com/Isaac-Machado-Profissional/Isaac-Portfolio/refs/heads/main/Logo.ico&logoColor=white&style=for-the-bage" >
+  <img src="https://img.shields.io/static/v1?label=Meu%20Projeto&message=Badge%20Personalizado&color=0077B5&logo=https://raw.githubusercontent.com/Isaac-Machado-Profissional/Isaac-Portfolio/main/Logo.png&logoColor=white" height="35" alt="Custom Logo Badge" />
 
 </div>
 
