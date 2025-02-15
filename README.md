@@ -40,7 +40,13 @@
   <a href="isaacmachado.profissional@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+
+  <a href="https://www.linkedin.com/in/isaac-machado-profissional/?originalSubdomain=br" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+
+  <img src="https://img.shields.io/badge/:badgeContent?logo=https%3A%2F%2Fgithub.com%2FIsaac-Machado-Profissional%2FIsaac-Portfolio%2Fblob%2Fmain%2FLogo.ico&link=https%3A%2F%2Fwww.isaac-machado.me%2F">
+
 </div>
 
 ###
