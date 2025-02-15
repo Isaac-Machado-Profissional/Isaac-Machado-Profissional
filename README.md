@@ -42,7 +42,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/isaac-machado-profissional/?originalSubdomain=br" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=https://www.svgrepo.com/show/448234/linkedin.svg&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge"  />
   </a>
 
   <a href="https://www.isaac-machado.me/">
