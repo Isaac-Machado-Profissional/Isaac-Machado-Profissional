@@ -1,4 +1,4 @@
-<h2 align="center">✨Hi, i'm Isaac, my preasure!</h2>
+<h2 align="center">✨Hi, i'm Isaac, it's my preasure!</h2>
 
 ###
 
