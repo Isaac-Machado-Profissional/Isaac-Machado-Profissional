@@ -1,12 +1,6 @@
-<h2 align="center">✨Hi, i'm Isaac, it's my preasure!</h2>
-
-
-
-###
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Isaac%20GitHub%20Stats-ff007f?&style=flat&logo=github&labelColor=000000&color=4E17BC&" width="300">
+<img src="https://img.shields.io/badge/GITHub--Stats:%20Isaac-ff007f?&style=flat&logo=github&labelColor=000000&color=4E17BC&" width="400">
 
 <br>
 <br>
