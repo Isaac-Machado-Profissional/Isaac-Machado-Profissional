@@ -57,7 +57,7 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 
 
 <h3> Hosting: </h3>
- <img alt="namecheap "src="assets/Namecheap_Logo.svg" alt="Namecheap logo" height="50" />
+ <img alt="namecheap "src="assets/Namecheap_Logo.svg" alt="Namecheap logo" height="20" width="80" />
 <br>
 <br>
 
