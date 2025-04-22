@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=assets/Isaac_Wallpaper.png>
+<img alt="wallpaper" src="assets/Isaac_Wallpaper.png">
 <!-- <img src="https://img.shields.io/badge/GITHub--Stats:%20Isaac-ff007f?&style=flat&logo=github&labelColor=000000&color=4E17BC&" width="400"> -->  
 
 <h1>👤 About me: </h1>
@@ -57,7 +57,7 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 
 
 <h3> Hosting: </h3>
- <img alt="namecheap "src="assets/Namecheap_Logo.svg" alt="Namecheap logo" height="50" />
+ <img alt="namecheap "src="assets/Namecheap_Logo.svg" alt="Namecheap logo" height="20" width="80" />
 <br>
 <br>
 
