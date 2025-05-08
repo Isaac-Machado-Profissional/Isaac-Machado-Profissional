@@ -10,10 +10,10 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Isaac-Machado-Profissional&show_icons=true&theme=ayu-mirage&bg_color=00000000&icon_color=6A0DAD&title_color=4E17BC&hide_title=true" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Isaac-Machado-Profissional&show_icons=true&theme=ayu-mirage&bg_color=00000000&icon_color=59f4b2&title_color=59f4b2&hide_title=true" height="170"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Machado-Profissional&layout=compact&theme=ayu-mirage&bg_color=00000000&icon_color=6A0DAD&title_color=4E17BC" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Machado-Profissional&layout=compact&theme=ayu-mirage&bg_color=00000000&icon_color=6A0DAD&title_color=59f4b2" height="170"/>
     </td>
   </tr>
 
@@ -42,8 +42,8 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 <br>
 
 <h3>Frameworks:</h3>
- <img alt="django" src="assets/django-logo.svg" height="50" width="50">
- <img alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="50"/>
  <img alt="fastapi" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" height="50"/>
 <br>
 <br>
