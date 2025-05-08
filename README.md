@@ -51,7 +51,7 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
  
 <h3>Database:</h3>
  <img alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
- <img alt="mysql" src="assets/mysql-logo.png" width="50" height="50"/>
+ <img alt="mysql" src="assets/mysql-logo.png" width="80" height="50"/>
 <br>
 <br>
 
