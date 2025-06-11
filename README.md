@@ -10,13 +10,13 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 
   <tr>
     <td>
-      <img src="https://github-readme-stats-isaac-machados-projects.vercel.app/api?username=Isaac-Machado-Profissional&show_icons=true&theme=ayu-mirage&bg_color=00000000&icon_color=59f4b2&title_color=59f4b2&hide_title=true&include_all_commits&count_private=true" height="170"/>
+      <img src="https://github-readme-stats-isaac-machados-projects.vercel.app/api?username=Isaac-Machado-Profissional&show_icons=true&theme=ayu-mirage&bg_color=00000000&icon_color=59f4b2&title_color=59f4b2&hide_title=true&count_private=true" height="170"/>
     </td>
     <td>
       <img src="https://github-readme-stats-isaac-machados-projects.vercel.app/api/top-langs?username=Isaac-Machado-Profissional&layout=compact&theme=ayu-mirage&bg_color=00000000&icon_color=6A0DAD&title_color=59f4b2&count_private=true" height="170"/>
     </td>
   </tr>
-
+  <img src="https://streak-stats.demolab.com?user=Isaac-Machado-Profissional&theme=ayu-mirage&background=00000000&fire=59f4b2&ring=59f4b2&currStreakNum=59f4b2&sideNums=59f4b2&sideLabels=59f4b2&currStreakLabel=59f4y2&hide_border=true" width="795" />
 </div>
 
 <br>
