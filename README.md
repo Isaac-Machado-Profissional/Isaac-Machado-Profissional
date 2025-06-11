@@ -10,7 +10,7 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Isaac-Machado-Profissional&show_icons=true&theme=ayu-mirage&bg_color=00000000&icon_color=59f4b2&title_color=59f4b2&hide_title=true&count_private=true&buster=1" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Isaac-Machado-Profissional&show_icons=true&theme=ayu-mirage&bg_color=00000000&icon_color=59f4b2&title_color=59f4b2&hide_title=true&count_private=true" height="170"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Machado-Profissional&layout=compact&theme=ayu-mirage&bg_color=00000000&icon_color=6A0DAD&title_color=59f4b2&count_private=true" height="170"/>
