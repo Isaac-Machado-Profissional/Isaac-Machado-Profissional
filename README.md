@@ -63,7 +63,7 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 <br>
 
  
-<h3>Prototyping:</h3>
+<h3>Design & Prototyping:</h3>
  <img alt="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="50"/>
  <img alt="canva" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/canva/canva-original.svg" height="50"/>
  <img alt="figma" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" height="50"/>
