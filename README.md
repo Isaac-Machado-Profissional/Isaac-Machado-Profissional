@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="wallpaper" src="assets/Isaac_Wallpaper1.png">
+<img alt="wallpaper" src="assets/Isaac_Wallpaper.png">
 <!-- <img src="https://img.shields.io/badge/GITHub--Stats:%20Isaac-ff007f?&style=flat&logo=github&labelColor=000000&color=4E17BC&" width="400"> -->  
 
 <h1>👤 About me: </h1>
