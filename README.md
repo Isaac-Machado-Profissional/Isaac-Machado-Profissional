@@ -9,12 +9,12 @@ I'm a academic on **UNIVESP**, one public university from the state of São Paul
 Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innovations and geral maintence in hardware and software systems.
 
   <tr>
-    <td>
+<!--     <td>
       <img src="https://github-readme-stats-isaac-machados-projects.vercel.app/api?username=Isaac-Machado-Profissional&show_icons=true&theme=ayu-mirage&bg_color=00000000&icon_color=59f4b2&title_color=59f4b2&hide_title=true&count_private=true&v=1" height="170"/>
     </td>
     <td>
       <img src="https://github-readme-stats-isaac-machados-projects.vercel.app/api/top-langs?username=Isaac-Machado-Profissional&layout=compact&theme=ayu-mirage&bg_color=00000000&icon_color=6A0DAD&title_color=59f4b2&count_private=true" height="170"/>
-    </td>
+    </td> -->
   </tr>
 
 </div>
