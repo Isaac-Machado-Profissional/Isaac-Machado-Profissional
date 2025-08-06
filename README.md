@@ -7,10 +7,6 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 
 </div>
 
-<br>
-<br> 
-
-
 <div align="center">
   <h1>Stacks</h1>
   <a href="https://skillicons.dev">
