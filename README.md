@@ -10,7 +10,7 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 <div align="center">
   <h1>Stacks:</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,npm,mongodb,postgres,mysql,robloxstudio,cloudflare,cypress,spring,git,github,githubactions,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,npm,mongodb,postgres,mysql,robloxstudio,cloudflare,cypress,spring,git,github,githubactions,bitbucket,docker,figma" />
   </a>
 </div>
 
