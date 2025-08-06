@@ -14,6 +14,7 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 <div align="center">
 <h1>Stacks</h1>
 [![My Skills](https://skillicons.dev/icons?i=react,python,java,js,html,css,react,nodejs,npm,mongodb,postgres,mysql,robloxstudio,cloudflare,cypress,spring,git,github,githubactions,bitbucket)](https://skillicons.dev)
+
 </div>
 
 <div align="center">
