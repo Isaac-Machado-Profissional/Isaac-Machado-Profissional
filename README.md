@@ -12,8 +12,10 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
 
 
 <div align="center">
-<h1>Stacks</h1>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <h1>Stacks</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,npm,mongodb,postgres,mysql,robloxstudio,cloudflare,cypress,spring,git,github,githubactions,bitbucket" />
+  </a>
 </div>
 
 <div align="center">
