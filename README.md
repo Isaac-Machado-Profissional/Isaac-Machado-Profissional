@@ -23,7 +23,7 @@ Now i'm pretty ready to show us my tech-skills, digital/analogic solution, innov
   <a href="https://www.linkedin.com/in/isaac-machado-profissional/?originalSubdomain=br">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge"/></a>
 
-  <a href="https://www.isaac-machado.me/">
-  <img src="https://img.shields.io/badge/-Isaac%20Machado-FFFFFF?logo=https://raw.githubusercontent.com/Isaac-Machado-Profissional/Isaac-Portfolio/refs/heads/main/Logo.ico&label=&color=642EFE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="isaac-machado.me badge"/></a>
+  <a href="https://www.isaacmachado.com.br/">
+  <img src="https://img.shields.io/badge/-isaacmachado.com.br-FFFFFF?logo=https://raw.githubusercontent.com/Isaac-Machado-Profissional/Isaac-Portfolio/refs/heads/main/Logo.ico&label=&color=642EFE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="www.isaacmachado.com.br badge"/></a>
 
 </div>
